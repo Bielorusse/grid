@@ -1,0 +1,15 @@
+#Default configuration file for grid layout version 0.4 of the 20180815.
+#Lines starting with # are skipped
+#
+# planet_rot (planet rotational velocity)           = 0.416667	
+#
+a (semi-major axis, km)                           = 26500.0
+e (eccentricity)                                  = 0.7
+inc (inclination, deg)                            = 50.0
+raan (right ascension of the ascending node, deg) = 0.0
+om (argument of periapsis, deg)                   = -90.0
+#
+step (step duration, s)                           = 500.0
+dur (simulation duration, s)                      = 2160000.0
+#
+grid_size 					  = 3.0

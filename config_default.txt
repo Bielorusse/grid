@@ -1,0 +1,16 @@
+#Default configuration file for grid layout version 0.4 of the 20180815.
+#Lines starting with # are skipped
+#
+mu_planet (planet gravitational constant)         = 398600.0
+planet_rot (planet rotational velocity)           = 0.00416667
+#
+a (semi-major axis, km)                           = 41750.0
+e (eccentricity)                                  = 0.0
+inc (inclination, deg)                            = 10.0
+raan (right ascension of the ascending node, deg) = 0.0
+om (argument of periapsis, deg)                   = 0.0
+#
+step (step duration, s)                           = 5000.0
+dur (simulation duration, s)                      = 6000000.0
+#
+grid_size                                         = 3.0
